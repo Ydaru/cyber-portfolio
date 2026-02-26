@@ -117,7 +117,7 @@ Nenhum comportamento inesperado foi identificado.
 
 ## Orders
 
-Pedidos possuem ID sequencial (exemplo: 841307).
+Pedidos possuem ID sequencial (exemplo: [ID_4]).
 Possível vetor teórico para teste de IDOR em pedidos, porém não foi identificado acesso indevido.
 
 ---
