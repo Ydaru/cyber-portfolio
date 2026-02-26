@@ -6,7 +6,7 @@ relacionadas à minha formação em Defesa Cibernética.
 Conteúdos incluídos:
 
 - Relatórios técnicos (Google Cybersecurity)
-- Write-ups de CTFs
+- Write-ups de CTFs e Bug Bounty
 - Laboratórios PortSwigger
 - Estudos de SIEM (Splunk)
 - Análises de logs e tráfego de rede
